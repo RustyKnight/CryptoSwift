@@ -170,7 +170,6 @@
 		754BE46719693E190098E6F3 /* DigestTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DigestTests.swift; sourceTree = "<group>"; };
 		75558FCB1D4BA93C00CF6C18 /* RandomAccessCryptor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RandomAccessCryptor.swift; path = Sources/CryptoSwift/RandomAccessCryptor.swift; sourceTree = SOURCE_ROOT; };
 		755655C61D080E3F00F004E7 /* Cryptors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Cryptors.swift; path = Sources/CryptoSwift/Cryptors.swift; sourceTree = SOURCE_ROOT; };
-		755D27BC1D06DE6400C41692 /* CryptoSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CryptoSwift.playground; sourceTree = "<group>"; };
 		755FB1D9199E347D00475437 /* ExtensionsTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionsTest.swift; sourceTree = "<group>"; };
 		756B575E1D5131A4001C0C72 /* Collection+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Collection+Extension.swift"; path = "Sources/CryptoSwift/Collection+Extension.swift"; sourceTree = SOURCE_ROOT; };
 		756BFDCA1A82B87300B9D9A4 /* Bridging.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bridging.h; sourceTree = "<group>"; };
@@ -276,7 +275,6 @@
 		754BE44B19693E190098E6F3 = {
 			isa = PBXGroup;
 			children = (
-				755D27BC1D06DE6400C41692 /* CryptoSwift.playground */,
 				754BE45719693E190098E6F3 /* CryptoSwift */,
 				754BE46419693E190098E6F3 /* Tests */,
 				754BE45619693E190098E6F3 /* Products */,
